@@ -6,4 +6,4 @@ Want on or off this list? Comment `opt-out` on any of my PRs/issues.
 
 | Repo | Date added |
 |------|-----------|
-| _none yet — the list is empty and hopeful 🌱_ | |
+| OpenTTD/OpenTTD | 2026-09-23 |
